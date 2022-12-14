@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/project1.dir/src/log.cpp.o CMakeFiles/project1.dir/src/main.cpp.o -o project1   -L/root/own_github/cpp/Project_1/lib  -L/root/own_github/cpp/Project_1/3rd/lib  -Wl,-rpath,/root/own_github/cpp/Project_1/lib:/root/own_github/cpp/Project_1/3rd/lib -Wl,-Bstatic -lhv_static -Wl,-Bdynamic -lpthread 

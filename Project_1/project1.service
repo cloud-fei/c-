@@ -1,0 +1,9 @@
+[Unit]
+Description=project1 daemon
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/project1
+
+[Install]
+WantedBy=multi-user.target

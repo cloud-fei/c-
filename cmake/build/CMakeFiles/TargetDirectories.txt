@@ -1,0 +1,3 @@
+/root/own_github/cpp/cmake/build/CMakeFiles/rebuild_cache.dir
+/root/own_github/cpp/cmake/build/CMakeFiles/hello.dir
+/root/own_github/cpp/cmake/build/CMakeFiles/edit_cache.dir
